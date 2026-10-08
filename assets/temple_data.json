@@ -1,0 +1,290 @@
+[
+  {
+    "id": "temple_01",
+    "name": "鎮瀾宮",
+    "city": "臺中市",
+    "district": "沙鹿區",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_02",
+    "name": "沙鹿朝興宮",
+    "city": "臺中市",
+    "district": "沙鹿區",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_03",
+    "name": "青山宮",
+    "city": "臺中市",
+    "district": "沙鹿區",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_04",
+    "name": "南斗宮",
+    "city": "臺中市",
+    "district": "沙鹿區",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_05",
+    "name": "中臺武尊宮",
+    "city": "臺中市",
+    "district": "大肚區",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_06",
+    "name": "溝仔尾福德祠",
+    "city": "臺中市",
+    "district": "大肚區",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_07",
+    "name": "慈惠堂鎮明宮",
+    "city": "臺中市",
+    "district": "大肚區",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_08",
+    "name": "國聖里永安宮",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_09",
+    "name": "久長安宮",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_10",
+    "name": "茄苳王廟",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_11",
+    "name": "茄苳里福龍宮",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_12",
+    "name": "茄南宮",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_13",
+    "name": "和美糖聖宮",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_14",
+    "name": "彰化聖安宮",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "notes": "西勢里",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_15",
+    "name": "忠權里北極宮",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_16",
+    "name": "彰化南瑤宮",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "notes": "第一天駐駕",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_17",
+    "name": "修水岩",
+    "city": "彰化縣",
+    "district": "彰化市",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_18",
+    "name": "大村賜福宮",
+    "city": "彰化縣",
+    "district": "大村鄉",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_19",
+    "name": "白沙坑文德宮",
+    "city": "彰化縣",
+    "district": "花壇鄉",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_20",
+    "name": "聖惠宮",
+    "city": "彰化縣",
+    "district": "花壇鄉",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_21",
+    "name": "員林福營宮",
+    "city": "彰化縣",
+    "district": "員林市",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_22",
+    "name": "員林福寧宮",
+    "city": "彰化縣",
+    "district": "員林市",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_23",
+    "name": "啟興宮",
+    "city": "雲林縣",
+    "district": "西螺鎮",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_24",
+    "name": "威天宮",
+    "city": "雲林縣",
+    "district": "西螺鎮",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_25",
+    "name": "伽藍爺廟",
+    "city": "雲林縣",
+    "district": "西螺鎮",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_26",
+    "name": "西螺四十一媽慈惠堂",
+    "city": "雲林縣",
+    "district": "西螺鎮",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_27",
+    "name": "廣福宮",
+    "city": "雲林縣",
+    "district": "西螺鎮",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_28",
+    "name": "西螺福興宮",
+    "city": "雲林縣",
+    "district": "西螺鎮",
+    "notes": "第二天、第五天駐駕",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_29",
+    "name": "西螺天聖宮",
+    "city": "雲林縣",
+    "district": "西螺鎮",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_30",
+    "name": "廣聖宮",
+    "city": "雲林縣",
+    "district": "西螺鎮",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_31",
+    "name": "復興路福德宮",
+    "city": "雲林縣",
+    "district": "虎尾鎮",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "id": "temple_32",
+    "name": "新港奉天宮",
+    "city": "嘉義縣",
+    "district": "新港鄉",
+    "notes": "",
+    "latitude": null,
+    "longitude": null
+  }
+]
